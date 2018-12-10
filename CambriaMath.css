@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Cambria Math';
+    src: url('CambriaMath.eot');
+    src: url('CambriaMath.eot?#iefix') format('embedded-opentype'),
+        url('CambriaMath.woff2') format('woff2'),
+        url('CambriaMath.woff') format('woff'),
+        url('CambriaMath.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
